@@ -10,7 +10,7 @@
   <h1>Luis Felipe de Araújo Lima</h1>
 
   <h3>
-    Software Engineer • Backend • Distributed Systems • Cloud
+    Software Engineer • Backend • Distributed Systems • Cloud • Software Architecture
   </h3>
 
   <p>
