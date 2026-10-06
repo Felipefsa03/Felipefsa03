@@ -1,81 +1,120 @@
 <div align="center">
-  <img src="https://github.com/Felipefsa03.png" width="150px" style="border-radius: 50%" alt="Luis Felipe"/>
-  <h1>Olá! Eu sou Luis Felipe de Araujo Lima 👋</h1>
-  <p><b>Engenheiro de Software | Coordenador de Backend | Estudante de Sistemas de Informação (IFBA)</b></p>
+
+  <img
+    src="https://github.com/Felipefsa03.png"
+    width="150px"
+    style="border-radius: 50%"
+    alt="Luis Felipe"
+  />
+
+  <h1>Luis Felipe de Araújo Lima</h1>
+
+  <h3>
+    Software Engineer • Backend • Distributed Systems • Cloud
+  </h3>
 
   <p>
-    <a href="https://devfelps.onrender.com">🌐 Portfolio</a> •
-    <a href="https://linkedin.com/in/luis-felipe-304a96228">💼 LinkedIn</a> •
-    <a href="mailto:limalipe355@gmail.com">✉️ E-mail</a>
+    Building scalable APIs, financial integrations and reliable software systems.
   </p>
 
-  <!-- Badges de Status -->
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_Cloud-blue?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Feira_de_Santana,_BA-green?style=for-the-badge" alt="Location"/>
+  <p>
+    <a href="https://devfelps.onrender.com">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/luis-felipe-304a96228">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:limalipe355@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 👨‍💻 About me
 
-Sou **Engenheiro de Software** e **Líder Técnico** focado na construção de arquiteturas escaláveis, APIs RESTful de alto desempenho e soluções na nuvem. 
+I'm a **Software Engineer focused on Backend Engineering**, currently studying
+**Information Systems at IFBA**.
 
-* 🎓 **Formação:** Graduando em **Sistemas de Informação** pelo **IFBA** (Instituto Federal da Bahia).
-* 💼 **Atuação Atual:** 
-  * Engenheiro de Software & Coordenador de Backend no **Grupo AME** (Sistema *Ametech-VR*).
-  * Liderança Técnica e Desenvolvedor na **Agência de Desenvolvimento Júnior (DP Web)**.
-* 🛠️ **Foco de Estudo e Carreira:** Arquitetura de Software, DevOps, Cloud Computing (AWS) e Infraestrutura.
+My experience combines software engineering, technical leadership and the
+development of systems used in critical environments, with emphasis on
+**financial integrations, REST APIs, software architecture, databases,
+security and cloud infrastructure**.
+
+I've worked with integrations involving the Brazilian financial ecosystem,
+including **PIX, STR, SPB, CIP, RSFN and BACEN regulatory systems**, as well
+as financial messaging and adaptation to the **ISO 20022** standard.
+
+My main engineering stack includes **PHP/Laravel, Node.js/NestJS, Python,
+TypeScript, PostgreSQL, Docker and AWS**.
+
+I'm especially interested in:
+
+- Backend Engineering
+- Software Architecture
+- System Design
+- Distributed Systems
+- Cloud Computing
+- DevOps & Infrastructure
+- Financial Systems / FinTech
+- Software Security
 
 ---
 
-## 💻 Linguagens e Tecnologias
+## ⚡ Engineering Impact
 
-### **Backend & Banco de Dados**
+Some problems I've worked on go beyond implementing CRUDs and endpoints.
+
+### 🏦 Financial & Regulatory Systems
+
+Worked on the development, homologation and maintenance of integrations with
+systems from the Brazilian financial ecosystem, including:
+
+`PIX` • `STR` • `SPB` • `CIP` • `RSFN` • `COSIF`
+
+Responsibilities included:
+
+- Financial integrations and Core Banking systems
+- XML and JSON financial messaging
+- ISO 20022 layout adaptation
+- Cryptography and secure communication
+- Digital certificate management
+- API versioning and traceability
+- Structured logs and auditing
+- Regulatory and compliance-oriented systems
+
+One of the solutions I worked on automated an end-to-end regulatory
+documentation workflow, reducing the associated **manual submission process
+to 0%**.
+
+### 🧠 Technical Leadership
+
+As a **Software Engineer / Tech Lead**, I've also worked on:
+
+- Software architecture decisions
+- Backend team structuring
+- Technical hiring
+- Definition of engineering standards
+- Requirements refinement
+- API design
+- Code quality
+- Scalability and maintainability
+
+Through better technical discovery and requirements translation, some projects
+achieved a reduction of up to **30% in post-delivery refactoring scope**.
+
+---
+
+# 🧰 Tech Stack
+
+## Backend
+
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,java,typescript"/>
 </p>
 
-### **Frontend & Interface**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### **DevOps, Nuvem & Ferramentas**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipefsa03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipefsa03&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
----
-
-## 📫 Vamos nos conectar?
-
-* 💼 **LinkedIn:** [linkedin.com/in/luis-felipe-304a96228](https://linkedin.com/in/luis-felipe-304a96228)
-* 🌐 **Website:** [devfelps.onrender.com](https://devfelps.onrender.com)
-* ✉️ **E-mail:** [limalipe355@gmail.com](mailto:limalipe355@gmail.com)
-
----
-<div align="center">
-  <small><i>"Transformando problemas complexos em sistemas eficientes e de fácil manutenção."</i></small>
-</div>
+```text
+PHP • Laravel • Node.js • NestJS • Python • Java • TypeScript
+REST APIs • MVC • Authentication • Microservices
